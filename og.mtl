@@ -1,0 +1,202 @@
+# Blender 4.4.3 MTL File: 'og.blend'
+# www.blender.org
+
+newmtl 07_-_Default
+Ns 159.999985
+Ka 1.000000 1.000000 1.000000
+Kd 0.397505 0.397505 0.397505
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl AvatarBody.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/AvatarBodyMale_Color_1K.jpg
+map_Bump -bm 1.000000 C:/AvatarBodyMale_Normal1_1K.jpg
+
+newmtl AvatarEyelashes
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl AvatarHead
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/AvatarHeadMale_Color_1K.jpg
+map_Bump -bm 1.000000 C:/AvatarHeadMale_Normal1_1K.jpg
+
+newmtl AvatarLeftEyeball
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/AvatarEyes_Color_512.jpg
+map_Bump -bm 1.000000 C:/AvatarEyes_Normal_512.jpg
+
+newmtl AvatarRightEyeball
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/AvatarEyes_Color_512.jpg
+map_Bump -bm 1.000000 C:/AvatarEyes_Normal_512.jpg
+
+newmtl AvatarTeethLower
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/AvatarTeeth_Color_1K.jpg
+map_Bump -bm 1.000000 C:/AvatarTeeth_Normal1_1K.jpg
+
+newmtl AvatarTeethUpper
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/AvatarTeeth_Color_1K.jpg
+map_Bump -bm 1.000000 C:/AvatarTeeth_Normal1_1K.jpg
+
+newmtl Laufsole.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Bump -bm 1.000000 C:/sohle 6_Normal Kopie-neu.jpg
+
+newmtl Leder-_oben
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Leder-_pur
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.205455 0.205455 0.205455
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Sole innen.jpg
+
+newmtl Material.037
+Ns 707.128174
+Ka 1.000000 1.000000 1.000000
+Kd 0.187818 0.187818 0.187818
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl Material369563
+Ns 91.641029
+Ka 1.000000 1.000000 1.000000
+Kd 0.001027 0.001027 0.001027
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Material_30
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Pas.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl W_Twill_98_Ctn_2Spa_260GSM_H_DF22018_FRONT_2641
+Ns 0.060750
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl black_sole
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/black rubber_BaseColor.jpg
+map_Ns C:/black rubber_Roughness.jpg
+map_Bump -bm 1.000000 C:/black rubber_Normal.jpg
+
+newmtl haircut
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd C:/HairCard1_Color_1K.png
+map_d C:/HairCard1_Color_1K.png
+map_Bump -bm 1.000000 C:/HairCard1_Normal_1K.jpg
+
+newmtl shoe_inen
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns C:/hell blau futter1_Roughness.jpg
+map_Bump -bm 1.000000 C:/hell blau futter1_Normal.jpg
